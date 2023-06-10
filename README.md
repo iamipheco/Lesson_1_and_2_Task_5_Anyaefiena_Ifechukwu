@@ -1,9 +1,7 @@
-## This repository contains the code for a simple blog website created with HTML.
+## This repository contains the code for a  website about my favorite hobby created with HTML.
 
 ## Files
 - index.html This is the main page of the blog. It contains information about the blog.
-
-- css/ This directory contains two CSS files used for styling the website.
 
 - Images/ This directory contains images used on the website.
 
@@ -19,6 +17,7 @@
 
 - run "npm run lint:all" to run all lint error, "npm run lint:css" for css error check and "npm run lint:html" for html error check
 
+[View LIVE Site](https://iamipheco.github.io/Lesson_1_and_2_Task_5_Anyaefiena_Ifechukwu/)
 
 ## Acknowledgement
 
