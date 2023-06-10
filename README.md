@@ -5,6 +5,8 @@
 
 - Images/ This directory contains images used on the website.
 
+- videos/ This directory contains videos used on the website 
+
 ## How to run/test this project
 
 - ensure you have git installed properly on your machine
